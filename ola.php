@@ -1,0 +1,1 @@
+<?php echo "Olá mundo! Estou usando PHP 8". PHP_EOL;
